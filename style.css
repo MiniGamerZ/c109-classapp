@@ -1,0 +1,28 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color:rgba(177, 255, 251, 0.74);
+}
+.header_div{
+    background:grey;
+    color:whitesmoke;
+}
+.header_div p {
+   font-family: 'Roboto', sans-serif;
+   color:gray;
+   font-size: 12px;
+   font-weight: bolder; 
+}
+
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+.copy_right_footer{
+    background:grey;
+    color:whitesmoke;
+    position:fixed;
+    bottom:zero;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
